@@ -2,5 +2,6 @@
 Description of project
 
 ### Directories
-  * `syntax` - R scripts required for project
   * `data` - data required for project
+  * `packrat` - private library for package management
+  * `syntax` - R scripts required for project
