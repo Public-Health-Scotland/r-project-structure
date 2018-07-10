@@ -1,11 +1,11 @@
-# Title of project
-Description of project
+# *Title of project*
+*Description of project*
 
 ### Directories
   * `code` - R scripts required for project
-    + `code.R` - example structure for main R scipts
-    + `functions.R` - functions sourced and used in main scripts
-    + `packages.R` - list of packages sourced and used in main scripts
+    + `code.R` - example structure for main R script(s)
+    + `functions.R` - functions sourced and used in main script(s)
+    + `packages.R` - list of packages sourced and used in main script(s)
   * `data` - data required for project
     + `basefiles`
     + `output`
@@ -16,12 +16,13 @@ Description of project
   * `.Renviron` - R environment
   * `.Rprofile` - R profile settings
   * `.gitignore` - tells git what files and folders *not* to track or upload to GitHub
+  * `README.md` - this page
   * `r-project.Proj` - R project
   
 ## How to use
 
 To use this template, download the repository as a zip file and save it to your local network.
-You can then edit the files and folders accordingly e.g. rename the project or R script files.
+You can then edit the files and folders accordingly, e.g. rename the project or R script files and update the README with a project description and contents.
 
 This template aims to instil best practice within PHI and therefore git and packrat have been
 initiliased for version control and package control respectively. However, if you are not 
