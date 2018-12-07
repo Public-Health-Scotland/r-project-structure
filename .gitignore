@@ -3,9 +3,6 @@
 .RData
 .Ruserdata
 
-# packrat library folder (automatically added due to packract being initialised)
-packrat/lib*/
-
 # 'data' folder #
 data/
 
