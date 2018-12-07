@@ -10,7 +10,6 @@
     + `basefiles`
     + `output`
     + `temporary`
-  * `packrat` - project library for package management
 
 ### Files
   * `.Renviron` - R environment
@@ -24,9 +23,9 @@
 To use this template, download the repository as a zip file and save it to your local network.
 You can then edit the files and folders accordingly, e.g. rename the project or R script files and update the README with a project description and contents.
 
-This template aims to instil best practice within PHI and therefore git and packrat have been
-initiliased for version control and package control respectively. However, if you are not 
-using either or both of these then you can delete the .gitignore file for version control and the packrat folder for package management. More information about [version control](https://github.com/NHS-NSS-transforming-publications/resources/blob/master/version-control.md) and [package management](https://github.com/NHS-NSS-transforming-publications/resources/blob/master/Package%20Management.md).
+This template aims to instil best practice within PHI and therefore git has been
+initiliased for version control. However, if you are not 
+using this then you can delete the .gitignore file. More information about [version control](https://github.com/NHS-NSS-transforming-publications/resources/blob/master/version-control.md).
 
 If you are using git for version control then please be aware that the .gitignore contains the minimum recommended file types and folders to stop data being tracked and pushed to GitHub. Further guidance on using git and GitHub securely can be found [here](https://github.com/NHS-NSS-transforming-publications/GitHub-guidance).
 
